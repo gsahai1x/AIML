@@ -10,5 +10,8 @@ Thera Bank Personal Loan Project.html
 Gaurav_Sahai_Term_Deposit_Sale.ipynb  
 Gaurav_Sahai_Term_Deposit_Sale.html
 ## Concrete Strength Prediction - Feature Selection, Cross Validation, and Model Tuning
-Concrete Strength.html
+Concrete Strength.html  
 Concrete Strength.ipynb
+## Customer Segmentation Project - Unsupervised Learning Project
+Customer Segmentation Project.html  
+Customer Segmentation Project.ipynb
