@@ -13,5 +13,5 @@ Gaurav_Sahai_Term_Deposit_Sale.html
 Concrete Strength.html  
 Concrete Strength.ipynb
 ## Customer Segmentation Project - Unsupervised Learning Project
-<a href='https://github.com/gsahai1x/AIML/blob/master/Customer%20Segmentation%20Project.html'>Customer Segmentation Project.html</a>
+<a href='https://github.com/gsahai1x/AIML/blob/master/Customer%20Segmentation%20Project.html'>Customer Segmentation Project.html</a>  
 <a href='https://github.com/gsahai1x/AIML/blob/master/Customer%20Segmentation%20Project.ipynb'>Customer Segmentation Project.ipynb</a>
