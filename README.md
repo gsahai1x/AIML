@@ -16,5 +16,5 @@ Concrete Strength.ipynb
 <a href='https://github.com/gsahai1x/AIML/blob/master/Customer%20Segmentation%20Project.html'>Customer Segmentation Project.html</a>  
 <a href='https://github.com/gsahai1x/AIML/blob/master/Customer%20Segmentation%20Project.ipynb'>Customer Segmentation Project.ipynb</a>
 ## Bank Churn Prediction Project - Deep Neural Networks
-<a href='https://github.com/gsahai1x/AIML/blob/master/Bank%20Churn%20Prediction%20Project.html'>Bank%20Churn%20Prediction%20Project.html</a>  
-<a href='https://github.com/gsahai1x/AIML/blob/master/Bank%20Churn%20Prediction%20Project.ipynb'>Bank%20Churn%20Prediction%20Project.ipynb</a>
+<a href='https://github.com/gsahai1x/AIML/blob/master/Bank%20Churn%20Prediction%20Project.html'>Bank Churn Prediction Project.html</a>  
+<a href='https://github.com/gsahai1x/AIML/blob/master/Bank%20Churn%20Prediction%20Project.ipynb'>Bank Churn Prediction Project.ipynb</a>
