@@ -18,3 +18,6 @@ Concrete Strength.ipynb
 ## Bank Churn Prediction Project - Deep Neural Networks
 <a href='https://github.com/gsahai1x/AIML/blob/master/Bank%20Churn%20Prediction%20Project.html'>Bank Churn Prediction Project.html</a>  
 <a href='https://github.com/gsahai1x/AIML/blob/master/Bank%20Churn%20Prediction%20Project.ipynb'>Bank Churn Prediction Project.ipynb</a>
+## Image Classification using Keras - Convolutional Neural Networks
+<a href='https://github.com/gsahai1x/AIML/blob/master/Image_Classification_using_CNN_in_Keras.html'>Image_Classification_using_CNN_in_Keras.html</a>  
+<a href='https://github.com/gsahai1x/AIML/blob/master/Image_Classification_using_CNN_in_Keras.ipynb'>Image_Classification_using_CNN_in_Keras.ipynb</a>
