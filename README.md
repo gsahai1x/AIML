@@ -21,3 +21,6 @@ Concrete Strength.ipynb
 ## Image Classification using Keras - Convolutional Neural Networks
 <a href='https://github.com/gsahai1x/AIML/blob/master/Image_Classification_using_CNN_in_Keras.html'>Image_Classification_using_CNN_in_Keras.html</a>  
 <a href='https://github.com/gsahai1x/AIML/blob/master/Image_Classification_using_CNN_in_Keras.ipynb'>Image_Classification_using_CNN_in_Keras.ipynb</a>
+## Twitter Sentiment analysis - NLP
+<a href='https://github.com/gsahai1x/AIML/blob/master/Twitter US Airline Sentiment - NLP.html'>Twitter US Airline Sentiment - NLP.html</a>  
+<a href='https://github.com/gsahai1x/AIML/blob/master/Twitter US Airline Sentiment - NLP.ipynb'>Twitter US Airline Sentiment - NLP.ipynb</a>
